@@ -55,7 +55,9 @@
 컴퓨터 : do you want to continue ?
 나 : Y
 나 : ~$  sudo -H pip3 install -U jetson-stats
+```
 
 #### 8. 쿨링팬
 ```
 나 : ~$  sudo sh -c`echo 128>/sys/devices/pwm-fan/target_pwm'
+```
