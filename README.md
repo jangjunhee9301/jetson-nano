@@ -51,7 +51,7 @@
 ![우분투 설치 2](https://github.com/user-attachments/assets/c0fed95c-3521-43a8-9764-082bdde16d0a)
 ![우분투 설치 3](https://github.com/user-attachments/assets/e97d62d2-f0e1-4756-87fe-e92614e2f381)
 
-### 온도
+#### 7. 온도
  확인과 쿨링팬
 ***
 jtop : system monitoring tool
@@ -73,18 +73,12 @@ sudo sh -c 'echo 128 > /sys/devices/pwm-fan/target_pwm'
 ```
 다시 온도를 확인해보자. 온도가 많이 떨어진다.
 
-### 카메라
+#### 8. 카메라
 ***
 카메라를 인식하고 실행하자.
-
-#### 7. jtop 설치
-나 : ~$sudo apt install python3-pip
-컴퓨터 : do you want to continue ?
-나 : Y
-나 : ~$  sudo -H pip3 install -U jetson-stats
 ```
-
-#### 8. 쿨링팬
-```
-나 : ~$  sudo sh -c`echo 128>/sys/devices/pwm-fan/target_pwm'
+~$  ls /dev/vi*
+~$ git clone https://github.com/jetsonhacks/USB-Camera.git
+~$ cd USB-Camera
+python3 usb-camera-gst.py
 ```
