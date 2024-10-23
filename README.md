@@ -9,7 +9,7 @@
     
 ```  
         - jetson nano 4gb
-        ![스크린샷 2024-09-06 160330](https://github.com/user-attachments/assets/ebe40392-2f7d-4bc1-9592-d0d01a49bbf1)
+        ![스크린샷 2024-09-06 160330](https://github.com/user-attachments/assets/ebe40392-2f7d-4bc1-9592-d0d01a49bbf1).
         - c type power adapter
   
         - 와이파이 동글
