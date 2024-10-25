@@ -7,7 +7,8 @@
 
 #### 1. Jetson Nano Setting 준비물
     
-```
+
+
         - jetson nano 4gb
         ![IMG_1235](https://github.com/user-attachments/assets/4aeaaf84-6b90-47f9-859f-685096610775)
 
@@ -31,7 +32,7 @@
         - 그외 쿨링펜, lcd, 또는 모니터. hdmi
 ![Z](https://github.com/user-attachments/assets/306849f9-9bc3-4226-b2db-de0129c2e345)
 
-```
+
  
 
 #### 2. jetson nano에 대하여
