@@ -12,14 +12,25 @@
         ![IMG_1235](https://github.com/user-attachments/assets/4aeaaf84-6b90-47f9-859f-685096610775)
 
         - c type power adapter
+![9k=](https://github.com/user-attachments/assets/22239256-72b8-4b53-bb83-8ae2dbcae61b)
+
   
         - 와이파이 동글
+![2Q==](https://github.com/user-attachments/assets/2b833191-333e-4f4d-809f-ce2f17680704)
+
   
         - 웹캠(USB Camera), 또는 CSI Camera (라즈베리파이 V2)
+![Z](https://github.com/user-attachments/assets/11c9d9ba-136d-48c0-862c-2ab9e4ead2fa)
+![images](https://github.com/user-attachments/assets/1ffa8a17-bd6f-4cba-8251-2e63803f4d40)
+
   
         - 64기가 이상 마이크로sd카드
+![9k=](https://github.com/user-attachments/assets/3fd946ef-d23e-4c43-aacc-84e64bf17089)
+
   
         - 그외 쿨링펜, lcd, 또는 모니터. hdmi
+![Z](https://github.com/user-attachments/assets/306849f9-9bc3-4226-b2db-de0129c2e345)
+
 ```
  
 
